@@ -1,0 +1,94 @@
+.map {
+  position: fixed;
+}
+
+.map img {
+  width: 100%;
+}
+
+#wolf {
+  position:absolute;
+  top: 38%;
+  left: 56%;
+}
+
+#wolf img {
+  max-width: 100%;
+  height: auto;
+}
+
+#panda {
+  position: absolute;
+  top: 13%;
+  left: 75%;
+}
+
+#panda img {
+  max-width: 100%;
+  height: auto;
+}
+
+#snow-leopard {
+  position: absolute;
+  top: 20%;
+  left: 68%;
+}
+
+#snow-leopard img {
+  max-width: 100%;
+  height: auto;
+}
+
+#bigfoot {
+  position: absolute;
+  top: 15%;
+  left: 17%;
+}
+
+#bigfoot img {
+  max-width: 100%;
+  height: auto;
+}
+
+#nessie {
+  position: absolute;
+  top: 8%;
+  left: 45%;
+}
+
+#nessie img {
+  max-width: 100%;
+  height: auto;
+}
+
+#cthulhu {
+  position: absolute;
+  top: 35%;
+  left: 5%;
+}
+
+#cthulhu img {
+  max-width: 100%;
+  height: auto;
+}
+
+.animals {
+  border: 1px solid black;
+  border-radius: 50%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*afadsfd*/
